@@ -4,7 +4,7 @@
 
 This repository contains scripts for analyzing and plotting torsion angles (omega (ω), phi (φ), psi (ψ)) for proteins and peptoids using PyMOL. The scripts allow for flexible selection of molecules and can generate various torsion angle plots.
 
-![plot_omega figure](images/omg.png)
+![plot_omega figure](images/omega.png)
 ![plot_rama figure](images/rama.png)
 ![plot_all_angles figure](images/all.png)
 
